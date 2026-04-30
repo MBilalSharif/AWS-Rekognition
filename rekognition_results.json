@@ -1,0 +1,12 @@
+{
+    "uploads/DFD.PNG": [
+        {
+            "Label": "Diagram",
+            "Confidence": 86.89
+        },
+        {
+            "Label": "UML Diagram",
+            "Confidence": 70.18
+        }
+    ]
+}
